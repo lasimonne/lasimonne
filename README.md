@@ -1,11 +1,13 @@
 ### Hello World! 👋
 
-My name is Solomon Legodi (Lasimonne), a Software Developer and Multimedia Designer from South Africa. 🇿🇦
+I’m Solomon Legodi (Lasimonne).
+Welcome to my little corner of the internet 🕸️
 
-I’m passionate about JavaScript, React.js, Next.js and everything in between. ⚛️
+I'm a `Software Developer 👨‍💻` and `Multimedia Designer 💅` from  South Africa 🇿🇦
 
-Let's build cool things together! 👨‍💻
+I’m passionate about `JavaScript`, `React.js`, `Next.js` and everything in between. ⚛️
 
 - 🌍 [gosolly](https://www.gosolly.co.za)
 - 💬 [lasimonne](https://www.twitter.com/lasimonne)
 - 🦄 [be.net](https://be.net/lasimonne)
+- 👨‍💼 [linked.in](https://www.linkedin.com/in/lasimonne/)
